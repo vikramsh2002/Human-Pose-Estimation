@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+opencv-python
+matplotlib
+pandas
+joblib
+numpy
+mediapipe
+
